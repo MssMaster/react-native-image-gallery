@@ -1,27 +1,26 @@
 {
-  "_from": "react-native-image-gallery@^2.1.5",
+  "_from": "github:MssMaster/react-native-image-gallery",
   "_id": "react-native-image-gallery@2.1.5",
   "_inBundle": false,
   "_integrity": "sha512-xC7nuPu4GUH0da6byofQ10LjtqlKj+VaLc0NHBJmeMHVvdvmRvFEO6UOq0Q0m/ePx3OQiPTNwGbf5BSPJEKa0w==",
   "_location": "/react-native-image-gallery",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "react-native-image-gallery@^2.1.5",
-    "name": "react-native-image-gallery",
-    "escapedName": "react-native-image-gallery",
-    "rawSpec": "^2.1.5",
-    "saveSpec": null,
-    "fetchSpec": "^2.1.5"
+    "type": "git",
+    "raw": "MssMaster/react-native-image-gallery",
+    "rawSpec": "MssMaster/react-native-image-gallery",
+    "saveSpec": "github:MssMaster/react-native-image-gallery",
+    "fetchSpec": null,
+    "gitCommittish": null
   },
   "_requiredBy": [
+    "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-image-gallery/-/react-native-image-gallery-2.1.5.tgz",
+  "_resolved": "github:MssMaster/react-native-image-gallery#1f1921386cb885e0d17ba91aa65dfb5d7cdf7f9c",
   "_shasum": "f524b92ef7284d30ffbbd63f93019e0647e23229",
-  "_spec": "react-native-image-gallery@^2.1.5",
-  "_where": "/Users/karnikasingh/Desktop/ReactNativeProjects/MagentoBaseApp",
+  "_spec": "MssMaster/react-native-image-gallery",
+  "_where": "/Users/karnikasingh/Desktop/ReactNativeProjects/GitLabFitness/MagentoBaseApp",
   "author": {
     "name": "Archriss"
   },
