@@ -3,12 +3,12 @@
 ## Table of contents
 
 - [react-native-image-gallery](#react-native-image-gallery)
-    - [Table of contents](#table-of-contents)
-    - [Install](#install)
-    - [Usage example](#usage-example)
-    - [Remote and local images](#remote-and-local-images)
-    - [Props](#props)
-    - [Scroll state and events](#scroll-state-and-events)
+  - [Table of contents](#table-of-contents)
+  - [Install](#install)
+  - [Usage example](#usage-example)
+  - [Remote and local images](#remote-and-local-images)
+  - [Props](#props)
+  - [Scroll state and events](#scroll-state-and-events)
 
 >This used to be a fork of [ldn0x7dc/react-native-gallery](https://github.com/ldn0x7dc/react-native-gallery) but the original repo is no longer maintained, so here's our own repo. Props to [ldn0x7dc](https://github.com/ldn0x7dc) for his amazing work! 👏👏👏
 
@@ -21,7 +21,7 @@ This component aims to be the best image viewer for React Native apps, it is far
 
 This component utilizes **[@ldn0x7dc/react-native-view-pager](https://github.com/ldn0x7dc/react-native-view-pager)** as the scrollable container and **[react-native-transformable-image](https://github.com/ldn0x7dc/react-native-transformable-image)** as the wrapped image. 
 
-This component works on react-native **0.44+**.
+This component works on react-native **0.28+**.
 
 You can try this example live in **Archriss' showcase app** on [Android](https://play.google.com/store/apps/details?id=fr.archriss.demo.app) and [iOS](https://itunes.apple.com/lu/app/archriss-presentation-mobile/id1180954376?mt=8) or check out the demo.
 
@@ -29,7 +29,7 @@ You can try this example live in **Archriss' showcase app** on [Android](https:/
 
 ## Install
 
-`npm install --save react-native-image-gallery` or `yarn add react-native-image-gallery`
+`npm install --save MssMaster/react-native-image-gallery` or `yarn add MssMaster/react-native-image-gallery`
 
 ## Usage example
 
